@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560215788845",
+    "project_id": "road-damage-detection-2dd1f",
+    "storage_bucket": "road-damage-detection-2dd1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560215788845:android:d3ef218e9066fcfb6897a4",
+        "android_client_info": {
+          "package_name": "app.rdd.road_damage_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaSat13mw70bhO9xW9B5kG9pixW_wHFGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
